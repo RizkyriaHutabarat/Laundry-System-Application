@@ -1,0 +1,95 @@
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\Laundry TB.pdb
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.MenuUtama.resources
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.Properties.Resources.resources
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.pdb
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Web.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Web.xml
+C:\Users\User\source\repos\Laundry TB\Laundry TB\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry TB.csproj.CopyComplete
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.FormMenuUtama.resources
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.FormTransaksi.resources
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.FormLaporan.resources
+C:\Users\User\source\repos\Laundry TB\Laundry TB\obj\Debug\Laundry_TB.FormRegister.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\Laundry TB.pdb
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Web.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\bin\Debug\MySql.Web.xml
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.FormLaporan.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.FormMenuUtama.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.FormRegister.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.FormTransaksi.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.MenuUtama.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.Properties.Resources.resources
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.csproj.CopyComplete
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry TB.pdb
+C:\Users\User\source\repos\Laundry TB - Copy\Laundry TB\obj\Debug\Laundry_TB.FormDataTransaksi.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\Laundry TB.pdb
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Web.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\bin\Debug\MySql.Web.xml
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.exe.config
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.FormDataTransaksi.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.FormLaporan.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.FormMenuUtama.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.FormRegister.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.FormTransaksi.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.MenuUtama.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry_TB.Properties.Resources.resources
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.csproj.CopyComplete
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.exe
+C:\Users\User\source\repos\Laundry TB - Selesai\Laundry TB\obj\Debug\Laundry TB.pdb
